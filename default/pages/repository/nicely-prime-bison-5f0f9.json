@@ -1,6 +1,6 @@
 {
   "$id": "nicely-prime-bison-5f0f9",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/YextSolutions/healthcare-facility-pages-${{businessId}}",
+  "repoUrl": "github.com/yext-pages/healthcare-facility-pages-${{businessId}}",
   "templateRepo": "https://github.com/yext-pages/healthcare-facility-pages-template-repo"
 }
