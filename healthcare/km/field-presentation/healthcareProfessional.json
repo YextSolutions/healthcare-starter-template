@@ -44,6 +44,9 @@
           "id": "addressHidden"
         },
         {
+          "id": "serviceAreaPlaces"
+        },
+        {
           "id": "mainPhone",
           "visibleOnAdd": true
         },
