@@ -19,12 +19,6 @@
       "envVars": [],
       "isProductionBranch": true,
       "Active": false
-    },
-    {
-      "name": "main",
-      "envVars": [],
-      "isProductionBranch": false,
-      "Active": true
     }
   ]
 }
