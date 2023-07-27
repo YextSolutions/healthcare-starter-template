@@ -1,0 +1,86 @@
+{
+  "$id": "healthcare_provider-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Avenue",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "1135560"
+    ],
+    "certifications": [
+      "Certified Physician"
+    ],
+    "description": "Aaron O\u0027Loughlin has worked at our practice for over 15 years, first as a resident, and later as a faculty physician. Dr. O\u0027Loughlin received his undergraduate degree from the University of Pennsylvania and his MD from Johns Hopkins in 2011.",
+    "educationList": [
+      {
+        "institutionName": "Columbia",
+        "type": "MEDICAL_SCHOOL",
+        "yearCompleted": 2018
+      }
+    ],
+    "firstName": "Aaron",
+    "gender": "FEMALE",
+    "headshot": {
+      "height": 375,
+      "thumbnails": [
+        {
+          "height": 375,
+          "url": "https://a.mktgcdn.com/p/1BToDqfIh3OuRZ2WDv70a7OVCL564moTBnFipfE6EaA/300x375.jpg",
+          "width": 300
+        },
+        {
+          "height": 150,
+          "url": "https://a.mktgcdn.com/p/1BToDqfIh3OuRZ2WDv70a7OVCL564moTBnFipfE6EaA/120x150.jpg",
+          "width": 120
+        },
+        {
+          "height": 94,
+          "url": "https://a.mktgcdn.com/p/1BToDqfIh3OuRZ2WDv70a7OVCL564moTBnFipfE6EaA/75x94.jpg",
+          "width": 75
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/1BToDqfIh3OuRZ2WDv70a7OVCL564moTBnFipfE6EaA/300x375.jpg",
+      "width": 300
+    },
+    "healthcare_fAQs": [
+      "healthcare_faq-1",
+      "healthcare_faq-3",
+      "healthcare_faq-4"
+    ],
+    "healthcare_locationsPracticingAt": [
+      "healthcare_facility-1"
+    ],
+    "healthcare_practiceNames": [
+      "Greenwich Family Center"
+    ],
+    "healthcare_specialty": "Family Medicine",
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "lastName": "O\u0027Loughlin",
+    "name": "Aaron O\u0027Loughlin, MD",
+    "npi": "9244679731",
+    "slug": "aaron-oloughlin",
+    "timezone": "America/New_York"
+  },
+  "entityType": "healthcareProfessional",
+  "folder": "yext/root",
+  "labels": []
+}

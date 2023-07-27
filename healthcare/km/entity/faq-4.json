@@ -1,0 +1,49 @@
+{
+  "$id": "healthcare_faq-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "We offer a comprehensive range of medical specialties within our healthcare system, including but not limited to cardiology, dermatology, family medicine, gastroenterology, internal medicine, neurology, obstetrics and gynecology, orthopedics, pediatrics, and psychiatry.",
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We offer a comprehensive range of medical specialties within our healthcare system, including but not limited to cardiology, dermatology, family medicine, gastroenterology, internal medicine, neurology, obstetrics and gynecology, orthopedics, pediatrics, and psychiatry.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "healthcare_relatedDoctors": [
+      "healthcare_provider-1",
+      "healthcare_provider-5",
+      "healthcare_provider-4"
+    ],
+    "name": "What types of medical specialties are available within your healthcare system?",
+    "question": "What types of medical specialties are available within your healthcare system?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

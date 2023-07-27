@@ -1,0 +1,168 @@
+{
+  "$id": "healthcare_facility-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "acceptingNewPatients": true,
+    "address": {
+      "city": "Richmond",
+      "countryCode": "US",
+      "line1": "7702 E Parham Road",
+      "line2": "Suite 304",
+      "postalCode": "23294",
+      "region": "VA"
+    },
+    "categoryIds": [
+      "2167"
+    ],
+    "description": "Since 2001, Synergic Bariatric Medicine has been giving patients the care they need. At our practice, patients come first. We try and accommodate as many insurances as possible to increase our accessibility. Visit our website for a full list of the procedures we offer, the conditions we treat, and the specialties we consider our forte.",
+    "displayCoordinate": {
+      "latitude": 37.6317825,
+      "longitude": -77.5265219
+    },
+    "featuredMessage": {
+      "description": "Book an appointment!",
+      "url": "http://www.doctor-answers.com"
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "08:30"
+          }
+        ]
+      }
+    },
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "logo": {
+      "image": {
+        "height": 692,
+        "sourceUrl": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/692x692.jpg",
+        "thumbnails": [
+          {
+            "height": 692,
+            "url": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/692x692.jpg",
+            "width": 692
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/nE2pVy4qd4OL8xehm56sL1fhsZzU4fhNMkNGHGiOOyg/692x692.jpg",
+        "width": 692
+      }
+    },
+    "mainPhone": "+18043600600",
+    "name": "Synergic Bariatric Medicine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 2920,
+          "sourceUrl": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/3890x2920.jpg",
+          "thumbnails": [
+            {
+              "height": 2920,
+              "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/3890x2920.jpg",
+              "width": 3890
+            },
+            {
+              "height": 1426,
+              "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/1900x1426.jpg",
+              "width": 1900
+            },
+            {
+              "height": 465,
+              "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/619x465.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cOATd9Ld1Yl-8P8rhQCWS91cN--7qpK95-UK5flTqe4/3890x2920.jpg",
+          "width": 3890
+        }
+      }
+    ],
+    "routableCoordinate": {
+      "latitude": 37.630363,
+      "longitude": -77.5265552
+    },
+    "slug": "synergic-bariatric-medicine",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "displayUrl": "http://www.synergicmedical.com",
+      "preferDisplayUrl": false,
+      "url": "http://www.synergicmedical.com"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": []
+}

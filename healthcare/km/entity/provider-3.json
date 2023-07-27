@@ -1,0 +1,80 @@
+{
+  "$id": "healthcare_provider-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Avenue",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "1135560"
+    ],
+    "certifications": [
+      "Certified Physician"
+    ],
+    "description": "Alani McGraw has worked at our practice for over 15 years, first as a resident, and later as a faculty physician. Dr. O\u0027Loughlin received her undergraduate degree from the University of Pennsylvania and her MD from Johns Hopkins in 2011.",
+    "educationList": [
+      {
+        "institutionName": "Villanova",
+        "type": "MEDICAL_SCHOOL",
+        "yearCompleted": 2013
+      }
+    ],
+    "gender": "FEMALE",
+    "headshot": {
+      "height": 375,
+      "sourceUrl": "https://a.mktgcdn.com/p/9kWyge2_5r9368PD5VzoijFBwxodXiZjZlPKVRKMiRc/300x375.jpg",
+      "thumbnails": [
+        {
+          "height": 375,
+          "url": "https://a.mktgcdn.com/p/9kWyge2_5r9368PD5VzoijFBwxodXiZjZlPKVRKMiRc/300x375.jpg",
+          "width": 300
+        },
+        {
+          "height": 245,
+          "url": "https://a.mktgcdn.com/p/9kWyge2_5r9368PD5VzoijFBwxodXiZjZlPKVRKMiRc/196x245.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/9kWyge2_5r9368PD5VzoijFBwxodXiZjZlPKVRKMiRc/300x375.jpg",
+      "width": 300
+    },
+    "healthcare_fAQs": [
+      "healthcare_faq-1",
+      "healthcare_faq-2",
+      "healthcare_faq-3"
+    ],
+    "healthcare_locationsPracticingAt": [
+      "healthcare_facility-3"
+    ],
+    "healthcare_practiceNames": [
+      "Synergic"
+    ],
+    "healthcare_specialty": "Oncology",
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "name": "Alani McGraw MD",
+    "npi": "2175890476",
+    "slug": "alani-mcgraw",
+    "timezone": "America/New_York"
+  },
+  "entityType": "healthcareProfessional",
+  "labels": []
+}

@@ -1,0 +1,51 @@
+{
+  "$id": "healthcare_faq-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "You can access your medical records through our secure patient portal. Upon your first visit, our staff will provide you with instructions on how to register for the portal. Once registered, you can view and download your medical records, test results, and request prescription refills.",
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "You can access your medical records through our secure patient portal. Upon your first visit, our staff will provide you with instructions on how to register for the portal. Once registered, you can view and download your medical records, test results, and request prescription refills.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "healthcare_relatedDoctors": [
+      "healthcare_provider-1",
+      "healthcare_facility-1",
+      "healthcare_provider-5",
+      "healthcare_provider-3",
+      "healthcare_provider-2"
+    ],
+    "name": "How can I access my medical records?",
+    "question": "How can I access my medical records?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

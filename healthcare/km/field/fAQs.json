@@ -1,0 +1,19 @@
+{
+  "$id": "healthcare_fAQs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "FAQs",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "relatedFieldId": "healthcare_relatedDoctors",
+          "type": "TWO_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,104 @@
+{
+  "$id": "healthcare_facility-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Greenwich",
+      "countryCode": "US",
+      "line1": "5  Perryridge Road",
+      "postalCode": "06830",
+      "region": "AK"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "1276"
+    ],
+    "description": "Since 2001, Greenwich Hospital has been giving patients the care they need. At our practice, patients come first. We try and accommodate as many insurances as possible to increase our accessibility. Visit our website for a full list of the procedures we offer, the conditions we treat, and the specialties we consider our forte.",
+    "displayCoordinate": {
+      "latitude": 41.0345475,
+      "longitude": -73.6302569
+    },
+    "healthcare_fAQs": [
+      "healthcare_faq-1",
+      "healthcare_faq-2"
+    ],
+    "hours": {
+      "friday": {
+        "isClosed": true
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "04:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": true
+      }
+    },
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "languages": [
+      "French",
+      "Spanish"
+    ],
+    "logo": {
+      "image": {
+        "height": 407,
+        "sourceUrl": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+        "thumbnails": [
+          {
+            "height": 407,
+            "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+            "width": 407
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+        "width": 407
+      }
+    },
+    "mainPhone": "+12038633000",
+    "name": "Greenwich Hospital",
+    "routableCoordinate": {
+      "latitude": 41.034414,
+      "longitude": -73.629639
+    },
+    "slug": "greenwich-hospital",
+    "timezone": "America/New_York"
+  },
+  "entityType": "healthcareFacility",
+  "labels": []
+}

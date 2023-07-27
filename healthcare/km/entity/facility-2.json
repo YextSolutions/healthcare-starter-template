@@ -1,0 +1,52 @@
+{
+  "$id": "healthcare_facility-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Honolulu",
+      "countryCode": "US",
+      "line1": "11 Main St",
+      "postalCode": "00022",
+      "region": "HI"
+    },
+    "addressHidden": false,
+    "description": "Since 2001, Hawaii Practitioners has been giving patients the care they need. At our practice, patients come first. We try and accommodate as many insurances as possible to increase our accessibility. Visit our website for a full list of the procedures we offer, the conditions we treat, and the specialties we consider our forte.",
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "logo": {
+      "image": {
+        "height": 407,
+        "sourceUrl": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+        "thumbnails": [
+          {
+            "height": 407,
+            "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+            "width": 407
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/O15AjM7QRrIH6QLtuVZaGO1-PcHWAEoncNSRLYRbkFA/407x407.jpg",
+        "width": 407
+      }
+    },
+    "mainPhone": "+13474919787",
+    "name": "Hawaii Practicioners",
+    "slug": "hawaii-practicioners",
+    "timezone": "Pacific/Honolulu"
+  },
+  "entityType": "healthcareFacility",
+  "labels": []
+}

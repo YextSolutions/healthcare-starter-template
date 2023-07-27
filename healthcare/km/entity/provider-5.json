@@ -1,0 +1,90 @@
+{
+  "$id": "healthcare_provider-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Avenue",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "1135560"
+    ],
+    "certifications": [
+      "Certified Physician"
+    ],
+    "description": "Alexis Cadena has worked at our practice for over 15 years, first as a resident, and later as a faculty physician. Dr. O\u0027Loughlin received her undergraduate degree from the University of Pennsylvania and her MD from Johns Hopkins in 2011.",
+    "educationList": [
+      {
+        "institutionName": "University of Indiana",
+        "type": "MEDICAL_SCHOOL",
+        "yearCompleted": 2020
+      }
+    ],
+    "gender": "FEMALE",
+    "headshot": {
+      "height": 812,
+      "sourceUrl": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/650x812.jpg",
+      "thumbnails": [
+        {
+          "height": 812,
+          "url": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/650x812.jpg",
+          "width": 650
+        },
+        {
+          "height": 773,
+          "url": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/619x773.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/360x450.jpg",
+          "width": 360
+        },
+        {
+          "height": 245,
+          "url": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/196x245.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/v_ehLzA3KFQbzReS0kvEGmkQmnm5EL2Zx-OX6u61gUk/650x812.jpg",
+      "width": 650
+    },
+    "healthcare_fAQs": [
+      "healthcare_faq-1",
+      "healthcare_faq-4",
+      "healthcare_faq-3"
+    ],
+    "healthcare_locationsPracticingAt": [
+      "healthcare_facility-5"
+    ],
+    "healthcare_practiceNames": [
+      "Synergic"
+    ],
+    "healthcare_specialty": "Cardiology",
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "name": "Alexis Cadena MD",
+    "npi": "6804753153",
+    "slug": "alexis-cadena",
+    "timezone": "America/New_York"
+  },
+  "entityType": "healthcareProfessional",
+  "labels": []
+}

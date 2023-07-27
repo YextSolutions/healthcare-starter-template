@@ -1,0 +1,51 @@
+{
+  "$id": "healthcare_faq-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "If you need to cancel or reschedule your appointment, please contact our office as soon as possible. We understand that circumstances may change, and we will do our best to accommodate your needs.",
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "If you need to cancel or reschedule your appointment, please contact our office as soon as possible. We understand that circumstances may change, and we will do our best to accommodate your needs.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "healthcare_relatedDoctors": [
+      "healthcare_provider-1",
+      "healthcare_provider-5",
+      "healthcare_provider-3",
+      "healthcare_provider-4",
+      "healthcare_provider-2"
+    ],
+    "name": "What should I do if I need to cancel or reschedule my appointment?",
+    "question": "What should I do if I need to cancel or reschedule my appointment?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}

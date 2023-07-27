@@ -1,0 +1,78 @@
+{
+  "$id": "healthcare_provider-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Avenue",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "1135560"
+    ],
+    "certifications": [
+      "Certified Physician"
+    ],
+    "description": "Aimee Woodward has worked at our practice for over 15 years, first as a resident, and later as a faculty physician. Dr. O\u0027Loughlin received her undergraduate degree from the University of Pennsylvania and her MD from Johns Hopkins in 2011.",
+    "educationList": [
+      {
+        "institutionName": "Harvard",
+        "type": "MEDICAL_SCHOOL",
+        "yearCompleted": 2011
+      }
+    ],
+    "gender": "FEMALE",
+    "headshot": {
+      "height": 375,
+      "sourceUrl": "https://a.mktgcdn.com/p/gnf9AQrfuC95EFFem44ObkGpaMiD6tdxJJ9iym0kzrE/300x375.jpg",
+      "thumbnails": [
+        {
+          "height": 375,
+          "url": "https://a.mktgcdn.com/p/gnf9AQrfuC95EFFem44ObkGpaMiD6tdxJJ9iym0kzrE/300x375.jpg",
+          "width": 300
+        },
+        {
+          "height": 245,
+          "url": "https://a.mktgcdn.com/p/gnf9AQrfuC95EFFem44ObkGpaMiD6tdxJJ9iym0kzrE/196x245.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/gnf9AQrfuC95EFFem44ObkGpaMiD6tdxJJ9iym0kzrE/300x375.jpg",
+      "width": 300
+    },
+    "healthcare_fAQs": [
+      "healthcare_faq-4",
+      "healthcare_faq-3"
+    ],
+    "healthcare_locationsPracticingAt": [
+      "healthcare_facility-4"
+    ],
+    "healthcare_practiceNames": [
+      "Synergic Bariatric Medicine"
+    ],
+    "healthcare_specialty": "Family Medicine",
+    "insuranceAccepted": [
+      "Cigna",
+      "Aetna",
+      "United Healthcare",
+      "Anthem",
+      "Humana",
+      "Kaiser",
+      "Oscar",
+      "Molina"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "name": "Aimee Woodard MD",
+    "npi": "6117961709",
+    "slug": "aimee-woodard",
+    "timezone": "America/New_York"
+  },
+  "entityType": "healthcareProfessional",
+  "labels": []
+}

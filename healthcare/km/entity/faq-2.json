@@ -1,0 +1,48 @@
+{
+  "$id": "healthcare_faq-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "To schedule an appointment with a doctor, you can call our office during business hours or use our online appointment booking system on our website. Follow the prompts to select the desired date, time, and doctor.",
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "To schedule an appointment with a doctor, you can call our office during business hours or use our online appointment booking system on our website. Follow the prompts to select the desired date, time, and doctor.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "healthcare_relatedDoctors": [
+      "healthcare_facility-1",
+      "healthcare_provider-3"
+    ],
+    "name": "How do I schedule an appointment with a doctor?",
+    "question": "How do I schedule an appointment with a doctor?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": []
+}
