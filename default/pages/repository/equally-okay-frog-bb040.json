@@ -2,5 +2,5 @@
   "$id": "equally-okay-frog-bb040",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
   "repoUrl": "github.com/yext-pages/starter-healthcare-search-${{businessId}}",
-  "targetRepo": "http://github.com/yext-pages/starter-healthcare-search"
+  "templateRepo": "https://github.com/yext-pages/starter-healthcare-search"
 }
