@@ -3,10 +3,6 @@
   "primaryEntityType": "location",
   "entityTypeSettings": [
     {
-      "entityType": "hotel",
-      "disabled": true
-    },
-    {
       "entityType": "location",
       "disabled": false
     },
@@ -29,38 +25,6 @@
       "entityType": "healthcareFacility",
       "defaultFieldEligibilityGroup": "healthcareFacility.default",
       "disabled": false
-    },
-    {
-      "entityType": "event",
-      "disabled": true
-    },
-    {
-      "entityType": "hotelRoomType",
-      "disabled": true
-    },
-    {
-      "entityType": "atm",
-      "disabled": true
-    },
-    {
-      "entityType": "restaurant",
-      "disabled": true
-    },
-    {
-      "entityType": "organization",
-      "disabled": true
-    },
-    {
-      "entityType": "helpArticle",
-      "disabled": true
-    },
-    {
-      "entityType": "product",
-      "disabled": true
-    },
-    {
-      "entityType": "financialProfessional",
-      "disabled": true
     }
   ]
 }
