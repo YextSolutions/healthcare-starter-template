@@ -11,9 +11,6 @@
       ],
       "name": "FAQs",
       "searchableFields": {
-        "answer": {
-          "textSearch": true
-        },
         "builtin.entityType": {
           "nlpFilter": true
         },

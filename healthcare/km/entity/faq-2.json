@@ -3,7 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "answer": "To schedule an appointment with a doctor, you can call our office during business hours or use our online appointment booking system on our website. Follow the prompts to select the desired date, time, and doctor.",
     "answerV2": {
       "json": {
         "root": {

@@ -3,7 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "answer": "You can access your medical records through our secure patient portal. Upon your first visit, our staff will provide you with instructions on how to register for the portal. Once registered, you can view and download your medical records, test results, and request prescription refills.",
     "answerV2": {
       "json": {
         "root": {

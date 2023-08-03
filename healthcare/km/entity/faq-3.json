@@ -3,7 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "answer": "If you need to cancel or reschedule your appointment, please contact our office as soon as possible. We understand that circumstances may change, and we will do our best to accommodate your needs.",
     "answerV2": {
       "json": {
         "root": {
